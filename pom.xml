@@ -10,8 +10,8 @@
 
   <distributionManagement>
       <repository>
-          <id>lihaorong-maven-test</id>
-          <url>http://192.168.2.120/repository/lihaorong-maven-test/</url>
+          <id>aliyun-maven</id>
+          <url>http://maven.aliyun.com/nexus/content/groups/public</url>
       </repository>
   </distributionManagement>
   
