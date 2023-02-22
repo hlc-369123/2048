@@ -22,7 +22,6 @@
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
     <version>1.4.0.RELEASE</version>
-    <relativePath>/lienzhi</relativePath>
   </parent>
   
   <dependencies>
