@@ -14,7 +14,7 @@
           <id>nexus</id>
           <name>local nexus maven</name>
           <mirrorOf>*</mirrorOf>
-          <url>http://maven.aliyun.com/nexus/content/groups/public</url>
+          <url>https://maven.aliyun.com/repository/public</url>
       </mirror>     
   </mirrors>  
 </settings>
