@@ -11,7 +11,7 @@
   <repositories>
       <repository>
           <id>aliyun-maven</id>
-          <url>http://maven.aliyun.com/nexus/content/groups/public</url>
+          <url>http://maven.aliyun.com/repository/public</url>
           <snapshots>
             <enabled>true</enabled>
           </snapshots>
